@@ -49,6 +49,7 @@ Open the Jupyter notebooks and follow the steps to fine-tune your models:
 2. Open the desired notebook in your browser:
    - For text generation, open `text_generation.ipynb`.
    - For text translation (English to French), open `text_translation(eng----fr).ipynb`.
+   - for test classification, open `text_classification.ipynb`.
 
 3. Follow the instructions within the notebooks to load the datasets, configure the models, and initiate the fine-tuning process.
 
